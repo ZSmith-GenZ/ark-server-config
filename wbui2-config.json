@@ -1,0 +1,88 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 120,
+      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "disableicontext": false,
+      "iconposition": 2,
+      "icontextcolor": 4,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 6
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.LightBlue>Welcome</>",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<TextStyle.Yellow>Welcome to Ky's Modded Ark Cluster!</>",
+            "text": "<TextStyle.White>A casual, boosted PvE server running </><TextStyle.Orange>Ark Supreme</><TextStyle.White> on </><TextStyle.Green>Astraeos</><TextStyle.White>!</>\n\n<TextStyle.LightBlue>What We Offer:</>\n<TextStyle.White>- Ark Supreme creature overhaul with tiered dinos and bosses\n- 10x Harvest, 20x Taming, 25x XP\n- 39 QoL mods for the best experience\n- Max level 200 with 150 post-tame dino levels\n- Starter kit with metal tools and a Level 150 Ptera\n- Friendly, helpful community</>\n\n<TextStyle.Yellow>Quick Connect:</>\n<TextStyle.White>IP: 216.144.241.3:7707\nMap: Astraeos | Mode: PvE</>\n\n<TextStyle.Green>Press the tabs above to see rules, rates, and mods.\nClick Discord below to join our community!</>"
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Rules",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<TextStyle.Red>Server Rules</>",
+            "text": "<TextStyle.White>1. Be respectful - no racism, sexism, or hate speech\n2. No cheating, exploiting, or meshing\n3. No real-money trading (RMT)\n4. Report issues via Discord tickets\n5. Staff decisions are final</>\n\n<TextStyle.Yellow>Building Rules:</>\n<TextStyle.White>- One main base per tribe\n- Remove taming traps when done\n- Don't block resources, artifacts, or obelisks\n- Don't block pathways or community areas\n- Keep builds performance-friendly</>"
+          },
+          {
+            "title": "<TextStyle.Yellow>PvE Community Guidelines</>",
+            "text": "<TextStyle.White>This is a PvE server - no griefing!\n\n- Don't leave tames on wander outside your base\n- Don't kite wild dinos into other players\n- Clean up unwanted tames\n- Help new players when possible\n- Trading must be consensual\n- Report inactive bases after 2 weeks</>\n\n<TextStyle.Red>Breaking rules may result in warnings, timeouts, or bans.</>"
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Rates",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<TextStyle.Green>Server Rates</>",
+            "text": "<TextStyle.Yellow>XP:</> <TextStyle.White>25x</>\n<TextStyle.Yellow>Harvesting:</> <TextStyle.White>10x</>\n<TextStyle.Yellow>Harvest Health:</> <TextStyle.White>2.5x</>\n<TextStyle.Yellow>Taming Speed:</> <TextStyle.White>20x</>\n<TextStyle.Yellow>Mating Interval:</> <TextStyle.White>0.2x (5x faster)</>\n<TextStyle.Yellow>Egg Hatch:</> <TextStyle.White>0.2x (5x faster)</>\n<TextStyle.Yellow>Crop Growth:</> <TextStyle.White>10x</>\n\n<TextStyle.Yellow>Max Wild Dino:</> <TextStyle.White>150</>\n<TextStyle.Yellow>Dino Distribution:</> <TextStyle.White>Ragnarok-style (more high levels)</>"
+          },
+          {
+            "title": "<TextStyle.Green>Player and Dino Stats</>",
+            "text": "<TextStyle.Yellow>Max Player Level:</> <TextStyle.White>200</>\n<TextStyle.Yellow>Post-Tame Levels:</> <TextStyle.White>150</>\n\n<TextStyle.LightBlue>Player Per-Level Boosts:</>\n<TextStyle.White>Health: 4x | Stamina: 2.5x\nOxygen: 1000x | Weight: 10,000x\nMelee: 3x | Speed: 4x\nFortitude: 100x | Crafting: 1000x</>\n\n<TextStyle.LightBlue>QoL Enabled:</>\n<TextStyle.White>Speed Leveling | Flyer Speed\nUnlimited Respecs | No Friendly Fire\nDeath Inventory Keeper | Floating Damage</>"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Mods",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<TextStyle.Orange>39 Mods Installed</>",
+            "text": "<TextStyle.Yellow>Core:</> <TextStyle.White>Ark Supreme (creature overhaul)</>\n<TextStyle.Yellow>Storage:</> <TextStyle.White>Dino Depot, TG Stacking 10000</>\n<TextStyle.Yellow>Travel:</> <TextStyle.White>Awesome Teleporters, Elevators, Spyglass</>\n<TextStyle.Yellow>Building:</> <TextStyle.White>Cybers QoL+, Arkitect Structures, Klinger Rustic, Wall'n'Floor, Castle Craft, JVH Garden, RR-Homedeco</>\n<TextStyle.Yellow>Farming:</> <TextStyle.White>Automated Ark, Solo Farm, Seed Farm, Auto Crop Plot, Auto Fishery, Egg Collector</>\n<TextStyle.Yellow>Breeding:</> <TextStyle.White>Better Breeding, Custom Dino Levels, Dino Painter</>\n<TextStyle.Yellow>Combat:</> <TextStyle.White>Imbue & Upgrade Station, Upgrade Station</>\n<TextStyle.Yellow>QoL:</> <TextStyle.White>Death Inventory Keeper, Loot Grabber, Vanilla w/ Sprinkles, Ez's Engram Unlocker, Utilities Plus</>\n<TextStyle.Yellow>Cosmetics:</> <TextStyle.White>Cliffans Wardrobe, MarniiMods Hairstyles</>\n<TextStyle.Yellow>Fun:</> <TextStyle.White>Crazy's Potions, Eggcellent Adventure, Rhythmbox, Survival Ambience</>\n<TextStyle.Yellow>Admin:</> <TextStyle.White>Resource Placer, Starter Loot</>\n\n<TextStyle.Green>Full mod details on our Discord!</>"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Starter Kit",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<TextStyle.Green>New Player Starter Kit</>",
+            "text": "<TextStyle.White>When you first join, you automatically receive:</>\n\n<TextStyle.Yellow>Survivalist Crate:</>\n<TextStyle.White>- Metal Pickaxe\n- Metal Hatchet\n- Metal Pike\n- Pteranodon Saddle</>\n\n<TextStyle.Yellow>Dino Summon Potion:</>\n<TextStyle.White>- Summons a Level 150 Pteranodon\n- Pre-leveled with points in Health, Stamina, Weight, and Melee\n- Your first flying mount!</>\n\n<TextStyle.LightBlue>How to use:</>\n<TextStyle.White>1. Open inventory after spawning\n2. Equip tools from the crate\n3. Use the Dino Summon Potion\n4. Saddle up your Ptera\n5. Start exploring Astraeos!</>"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/J2h3WpZqB3"
+      }
+    ],
+    "version": 2
+  }
+}
