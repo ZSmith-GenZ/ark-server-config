@@ -20,7 +20,7 @@
         "content": [
           {
             "title": "<TextStyle.Yellow>Welcome to Ky's Modded Ark Cluster!</>",
-            "text": "<TextStyle.White>A casual, boosted PvE server running </><TextStyle.Orange>Ark Supreme</><TextStyle.White> on </><TextStyle.Green>Astraeos</><TextStyle.White>!</>\n\n<TextStyle.LightBlue>What We Offer:</>\n<TextStyle.White>- Ark Supreme creature overhaul with tiered dinos and bosses\n- 10x Harvest, 20x Taming, 25x XP\n- 39 QoL mods for the best experience\n- Max level 200 with 150 post-tame dino levels\n- Starter kit with metal tools and a Level 150 Ptera\n- Friendly, helpful community</>\n\n<TextStyle.Yellow>Quick Connect:</>\n<TextStyle.White>IP: 216.144.241.3:7707\nMap: Astraeos | Mode: PvE</>\n\n<TextStyle.Green>Press the tabs above to see rules, rates, and mods.\nClick Discord below to join our community!</>"
+            "text": "<TextStyle.White>A casual, boosted PvE server running </><TextStyle.Orange>Ark Supreme</><TextStyle.White> on </><TextStyle.Green>Astraeos</><TextStyle.White>!</>\n\n<TextStyle.LightBlue>What We Offer:</>\n<TextStyle.White>- Ark Supreme creature overhaul with tiered dinos and bosses\n- 10x Harvest, 20x Taming, 25x XP\n- 40 QoL mods for the best experience\n- Max level 200 with 150 post-tame dino levels\n- Starter kit with metal tools and a Level 150 Ptera\n- Friendly, helpful community</>\n\n<TextStyle.Yellow>Quick Connect:</>\n<TextStyle.White>IP: 216.144.241.3:7707\nMap: Astraeos | Mode: PvE</>\n\n<TextStyle.Green>Press the tabs above to see rules, rates, and mods!</>"
           }
         ]
       },
@@ -31,7 +31,7 @@
         "content": [
           {
             "title": "<TextStyle.Red>Server Rules</>",
-            "text": "<TextStyle.White>1. Be respectful - no racism, sexism, or hate speech\n2. No cheating, exploiting, or meshing\n3. No real-money trading (RMT)\n4. Report issues via Discord tickets\n5. Staff decisions are final</>\n\n<TextStyle.Yellow>Building Rules:</>\n<TextStyle.White>- One main base per tribe\n- Remove taming traps when done\n- Don't block resources, artifacts, or obelisks\n- Don't block pathways or community areas\n- Keep builds performance-friendly</>"
+            "text": "<TextStyle.White>1. Be respectful - no racism, sexism, or hate speech\n2. No cheating, exploiting, or meshing\n3. No real-money trading (RMT)\n4. Report issues to an admin in-game\n5. Staff decisions are final</>\n\n<TextStyle.Yellow>Building Rules:</>\n<TextStyle.White>- One main base per tribe\n- Remove taming traps when done\n- Don't block resources, artifacts, or obelisks\n- Don't block pathways or community areas\n- Keep builds performance-friendly</>"
           },
           {
             "title": "<TextStyle.Yellow>PvE Community Guidelines</>",
@@ -60,8 +60,8 @@
         "imageurl": "",
         "content": [
           {
-            "title": "<TextStyle.Orange>39 Mods Installed</>",
-            "text": "<TextStyle.Yellow>Core:</> <TextStyle.White>Ark Supreme (creature overhaul)</>\n<TextStyle.Yellow>Storage:</> <TextStyle.White>Dino Depot, TG Stacking 10000</>\n<TextStyle.Yellow>Travel:</> <TextStyle.White>Awesome Teleporters, Elevators, Spyglass</>\n<TextStyle.Yellow>Building:</> <TextStyle.White>Cybers QoL+, Arkitect Structures, Klinger Rustic, Wall'n'Floor, Castle Craft, JVH Garden, RR-Homedeco</>\n<TextStyle.Yellow>Farming:</> <TextStyle.White>Automated Ark, Solo Farm, Seed Farm, Auto Crop Plot, Auto Fishery, Egg Collector</>\n<TextStyle.Yellow>Breeding:</> <TextStyle.White>Better Breeding, Custom Dino Levels, Dino Painter</>\n<TextStyle.Yellow>Combat:</> <TextStyle.White>Imbue & Upgrade Station, Upgrade Station</>\n<TextStyle.Yellow>QoL:</> <TextStyle.White>Death Inventory Keeper, Loot Grabber, Vanilla w/ Sprinkles, Ez's Engram Unlocker, Utilities Plus</>\n<TextStyle.Yellow>Cosmetics:</> <TextStyle.White>Cliffans Wardrobe, MarniiMods Hairstyles</>\n<TextStyle.Yellow>Fun:</> <TextStyle.White>Crazy's Potions, Eggcellent Adventure, Rhythmbox, Survival Ambience</>\n<TextStyle.Yellow>Admin:</> <TextStyle.White>Resource Placer, Starter Loot</>\n\n<TextStyle.Green>Full mod details on our Discord!</>"
+            "title": "<TextStyle.Orange>40 Mods Installed</>",
+            "text": "<TextStyle.Yellow>Core:</> <TextStyle.White>Ark Supreme (creature overhaul)</>\n<TextStyle.Yellow>Storage:</> <TextStyle.White>Dino Depot, TG Stacking 10000</>\n<TextStyle.Yellow>Travel:</> <TextStyle.White>Awesome Teleporters, Elevators, Spyglass</>\n<TextStyle.Yellow>Building:</> <TextStyle.White>Cybers QoL+, Arkitect Structures, Klinger Rustic, Wall'n'Floor, Castle Craft, JVH Garden, RR-Homedeco</>\n<TextStyle.Yellow>Farming:</> <TextStyle.White>Automated Ark, Solo Farm, Seed Farm, Auto Crop Plot, Auto Fishery, Egg Collector</>\n<TextStyle.Yellow>Breeding:</> <TextStyle.White>Better Breeding, Custom Dino Levels, Dino Painter</>\n<TextStyle.Yellow>Combat:</> <TextStyle.White>Imbue & Upgrade Station, Upgrade Station</>\n<TextStyle.Yellow>QoL:</> <TextStyle.White>Death Inventory Keeper, Loot Grabber, Vanilla w/ Sprinkles, Ez's Engram Unlocker, Utilities Plus, Cleanup 5050</>\n<TextStyle.Yellow>Cosmetics:</> <TextStyle.White>Cliffans Wardrobe, MarniiMods Hairstyles</>\n<TextStyle.Yellow>Fun:</> <TextStyle.White>Crazy's Potions, Eggcellent Adventure, Rhythmbox, Survival Ambience</>\n<TextStyle.Yellow>Admin:</> <TextStyle.White>Resource Placer, Starter Loot</>"
           }
         ]
       },
@@ -77,12 +77,7 @@
         ]
       }
     ],
-    "links": [
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/J2h3WpZqB3"
-      }
-    ],
+    "links": [],
     "version": 2
   }
 }
